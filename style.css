@@ -1,0 +1,23 @@
+
+.container{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.item-flex{
+    display: flex;
+}
+
+.grid-content{
+    display: flex;
+   justify-content: space-between;
+   align-items: center; 
+   text-align: start;
+}
+
+.grid-content h1{
+    font-size: 3em;
+}
+
+
